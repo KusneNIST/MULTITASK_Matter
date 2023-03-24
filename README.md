@@ -3,16 +3,16 @@
 % If using this work for a publication, please cite:
 % Kusne, A. Gilad, et al. "Scalable Multi-Agent Lab Framework for Lab Optimization" Matter 2023.
 
-Packages used:
-torch==1.11.0
-tensorflow==2.8.2
-tabulate==0.8.9
-simpy==4.0.1
-scipy==1.6.2
-scikit-learn==0.24.1
-pandas==1.2.4
-numpy==1.20.1
-matplotlib==3.3.4
+Packages used: \
+torch==1.11.0 \
+tensorflow==2.8.2 \
+tabulate==0.8.9 \
+simpy==4.0.1 \
+scipy==1.6.2 \
+scikit-learn==0.24.1 \
+pandas==1.2.4 \
+numpy==1.20.1 \
+matplotlib==3.3.4 \
 gpflow==2.2.1
 
 % This software was developed by employees of the National Institute of
