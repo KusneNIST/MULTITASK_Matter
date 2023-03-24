@@ -1,7 +1,7 @@
 # MULTITASK_Matter
-% A. Gilad Kusne, NIST, aaron.kusne@nist.gov, Release 3/1/2023
-% If using this work for a publication, please cite:
-% Kusne, A. Gilad, et al. "Scalable Multi-Agent Lab Framework for Lab Optimization" Matter 2023.
+A. Gilad Kusne, NIST, aaron.kusne@nist.gov, Release 3/1/2023 \
+If using this work for a publication, please cite: \
+Kusne, A. Gilad, et al. "Scalable Multi-Agent Lab Framework for Lab Optimization" Matter 2023.
 
 Packages used: \
 torch==1.11.0 \
